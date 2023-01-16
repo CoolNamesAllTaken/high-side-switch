@@ -1,0 +1,47 @@
+Circuit: * C:\git-checkouts\high-side-switch\ltspice\switch_tran.asc
+
+WARNING: Less than two connections to node NC_01.  This node is used by R19.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+Gmin = 1.89714e-008
+Gmin = 2.03704e-009
+Gmin = 2.18725e-010
+Gmin = 2.34854e-011
+Gmin = 2.52173e-012
+Gmin = 2.70769e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Heightened Def Con from 0.01 to 0.01
+Heightened Def Con from 0.0250005 to 0.0250005
+Heightened Def Con from 0.17 +++++++++++to 0.17
+Heightened Def Con from 0.17 ++++++to 0.17
+Heightened Def Con from 0.17 to 0.17
+
+Date: Sun Jan 15 20:24:56 2023
+Total elapsed time: 49.017 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 1020218
+traniter = 1019861
+tranpoints = 502989
+accept = 502087
+rejected = 924
+matrix size = 89
+fillins = 50
+solver = Normal
+Thread vector: 6.2/6.8[2] 2.0/1.5[2] 0.9/1.0[1] 0.3/0.8[1]  2592/500
+Matrix Compiler1: 8.02 KB object code size  1.2/0.5/[0.3]
+Matrix Compiler2: 8.71 KB object code size  0.5/0.7/[0.4]
+
